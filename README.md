@@ -94,7 +94,7 @@ git push origin feature/amazing-feature
 
 ## 📚 Resources
 
-Jupiter API Docs
+Jupiter API Docs - https://dev.jup.ag/docs/
 
 Solana Wallet Adapter
 
